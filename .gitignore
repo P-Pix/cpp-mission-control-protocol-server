@@ -1,0 +1,8 @@
+build/
+build-*/
+*.log
+*.tmp
+*.swp
+.DS_Store
+compile_commands.json
+cmake-build-*/
