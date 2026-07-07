@@ -1,5 +1,8 @@
 # cpp-mission-control-protocol-server
 
+![C++ Linux Mission Control Protocol Server banner](Banniere.png)
+*Banner generate by ChatGPT*
+
 A C++20 Linux Mission Control Protocol Server exposing a simple command/control protocol over TCP, with multi-client handling, authentication, structured logs, parser tests, a CLI client and a small HTTP monitoring endpoint.
 
 ## Why this project exists
